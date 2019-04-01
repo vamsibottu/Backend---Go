@@ -32,5 +32,3 @@ AWS_queue_url  = *******************
 PSQL_PORT = 5432
 PSQL_URL  = AWS_ENDPOINT_DB
 ```
-### How To Run
-#### go run duntoday_worker.go
